@@ -16,5 +16,16 @@
     "jest": "^26.6.3",
     "nodemon": "^2.0.7",
     "supertest": "^6.1.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeGazapina/todoAPIIgnite.git"
+  },
+  "keywords": [],
+  "author": "Felipe Gazapina",
+  "bugs": {
+    "url": "https://github.com/FelipeGazapina/todoAPIIgnite/issues"
+  },
+  "homepage": "https://github.com/FelipeGazapina/todoAPIIgnite#readme",
+  "description": ""
 }
